@@ -37,7 +37,7 @@ I enjoy working on real-world projects that emphasize **code quality, usability,
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Projects
 
 - **Movidex** — MERN stack movie platform with authentication, watchlists, and reviews  
 - **PyTerminal** — AI-powered Python terminal converting natural language into commands  
